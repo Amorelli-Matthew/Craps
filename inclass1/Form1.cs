@@ -3,13 +3,6 @@ using System.Windows.Forms;
 
 namespace inclass1
 {
-    // Name: Matthew Amorelli
-
-    // Date: September 21, 2021
-
-    // Assignment: Craps! game (Chapter 4- exersize 3)
-
-    // Description: This is the Craps Game we made in class on September 21, 2021
     public partial class FormCrapsGame : Form
     {
         //declear the varables
