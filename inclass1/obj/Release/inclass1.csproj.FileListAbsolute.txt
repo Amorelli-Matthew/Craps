@@ -1,0 +1,10 @@
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\bin\Release\inclass1.exe.config
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\bin\Release\inclass1.exe
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\bin\Release\inclass1.pdb
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\obj\Release\inclass1.csproj.AssemblyReference.cache
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\obj\Release\inclass1.FormCrapsGame.resources
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\obj\Release\inclass1.Properties.Resources.resources
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\obj\Release\inclass1.csproj.GenerateResource.cache
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\obj\Release\inclass1.csproj.CoreCompileInputs.cache
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\obj\Release\inclass1.exe
+C:\Users\mattl\Desktop\C# Projects\Craps! game\inclass1\obj\Release\inclass1.pdb
